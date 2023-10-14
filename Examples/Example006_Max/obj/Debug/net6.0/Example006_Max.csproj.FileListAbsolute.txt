@@ -1,0 +1,15 @@
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\bin\Debug\net6.0\Example006_Max.exe
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\bin\Debug\net6.0\Example006_Max.deps.json
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\bin\Debug\net6.0\Example006_Max.runtimeconfig.json
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\bin\Debug\net6.0\Example006_Max.dll
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\bin\Debug\net6.0\Example006_Max.pdb
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.csproj.AssemblyReference.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.AssemblyInfoInputs.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.AssemblyInfo.cs
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.csproj.CoreCompileInputs.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.dll
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\refint\Example006_Max.dll
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.pdb
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\Example006_Max.genruntimeconfig.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example006_Max\obj\Debug\net6.0\ref\Example006_Max.dll
