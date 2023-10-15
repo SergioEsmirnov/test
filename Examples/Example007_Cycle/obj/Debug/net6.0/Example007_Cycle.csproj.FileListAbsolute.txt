@@ -1,0 +1,15 @@
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\bin\Debug\net6.0\Example007_Cycle.exe
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\bin\Debug\net6.0\Example007_Cycle.deps.json
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\bin\Debug\net6.0\Example007_Cycle.runtimeconfig.json
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\bin\Debug\net6.0\Example007_Cycle.dll
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\bin\Debug\net6.0\Example007_Cycle.pdb
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.csproj.AssemblyReference.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.AssemblyInfoInputs.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.AssemblyInfo.cs
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.csproj.CoreCompileInputs.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.dll
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\refint\Example007_Cycle.dll
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.pdb
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\Example007_Cycle.genruntimeconfig.cache
+C:\Users\bekma\OneDrive\Escritorio\course Developer\1q\3. C#\lecture1\Examples\Example007_Cycle\obj\Debug\net6.0\ref\Example007_Cycle.dll
